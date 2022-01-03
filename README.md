@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ajocasio
 - 👀 I’m interested in a career as a Software Developer/ Software Engineer
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on a Open Source Project
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Xamarin
+- 💞️ I’m looking for an entry level job as a Software Developer or Software Engineer
+- 📫 How to reach me xelsio@hotmail.com
 
 <!---
 ajocasio/ajocasio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
